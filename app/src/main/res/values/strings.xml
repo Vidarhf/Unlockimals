@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Unlockimals</string>
+    <string name="title_text">Animal unlocked</string>
+    <string name="unlocked_screen_buttonText">Continue</string>
+    <string name="info_screen_buttontext">OK</string>
+    <string name="info_screen_titleText">How to use</string>
+    <string name="info_screen_infoText">
+        Try to find these images to unlock the animals! When unlocked - select and place animals
+        on any horizontal plane. Good hunting!
+    </string>
+    <string name="open_info_cd">questionmark</string>
+    <string name="clear_button_cd">trashcan</string>
+</resources>
